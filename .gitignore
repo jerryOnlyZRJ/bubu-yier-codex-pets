@@ -1,6 +1,9 @@
 # Keep generated run intermediates local; release assets live under pets/ and previews/.
 runs/
 
+# Keep social promotion drafts local so GitHub only hosts the installable pet package.
+promo/
+
 # Ignore macOS metadata and common temporary files.
 .DS_Store
 *.tmp

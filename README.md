@@ -120,6 +120,11 @@ The packaged pets were validated before release with:
 - animated QA previews for each sprite row;
 - a clean release directory that excludes generation intermediates.
 
+## Social Kit
+
+Ready-to-publish promotional copy and cover assets for X, Xiaohongshu, and
+Douyin are available in [`promo/social-posts.md`](promo/social-posts.md).
+
 ## Maintenance Notes
 
 When updating a pet, regenerate the package, review the contact sheet, then
